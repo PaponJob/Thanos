@@ -39,7 +39,7 @@ void Thanos::snap_finger(monster m[], int n){
       //m[i].hp=0; //<--make sure to have another function to do this
     }
   Thanos::~Thanos() { 
-    cout<<"Thanos finally succeed in snapping his fingers, some of the gaurdians can feel their body disappearing."<<endl;
+    cout<<"Thanos finally got all the infinity stones and succeed in snapping his fingers, some of the gaurdians can feel their body disappearing."<<endl;
     cout<<"However, the stones is proven to be too strong for Thanos."<<endl;
     cout << "Thus, Thanos dies" << endl; }
 void monster::print();

@@ -38,7 +38,7 @@ void monster::Heavy_Attack(monster &b){
 void monster::heal(){
   hp+=10;
   potion-=5;
-  cout<<name<<" use potion and is restored!"<<endl;
+  cout<<name<<" use potion and is now restored!"<<endl;
 }
   
    
