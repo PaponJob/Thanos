@@ -7,4 +7,3 @@ run: $(DEPS)
 
 clean: $(DEPS)
 	 rm $(DEPS)
-dw

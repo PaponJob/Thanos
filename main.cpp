@@ -21,7 +21,7 @@ int main(int argc, char* argv[]) {
   cout << "=================" << endl;
   cout<< "Thanos has arrived at the gates of Infinity Stones. The gaurdians immediately rush in to defend the stones."<<endl;
   cout<< "However, Thanos has prepare a mind controlling device which can erase the gaurdians' mind and make them attack each other."<<endl;
-  cout<< "As a result of this, Thanos sneaks past the door to get the stones."<<endl;
+  cout<< "As a result of this, Thanos easily sneaks past the door to get the stones."<<endl;
   cout << "=================" << endl;
   cout<< "Round 1!"<<endl;
   B.Attack(A);

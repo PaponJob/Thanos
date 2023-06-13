@@ -56,7 +56,7 @@ monster::monster(string n, int a, int b) {
   potion = b;
 }
 // alt+126 = ~
-monster::~monster() { cout << name << " is destroyed" << endl; }
+monster::~monster() { cout << name << " is destroyed"<< endl; }
 void monster::print();
 
 #endif
